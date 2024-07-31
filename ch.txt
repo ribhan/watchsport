@@ -126,3 +126,7 @@ https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/manifest.mpd
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/manifest.mpd
 #EXTINF:-1 tvg-id="rtm-6" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPZsLKi2wOycIWE3Ji6B1kukomx3oBxJXtMA&usqp=CAU" group-title="Event Olympics Paris 2024",Olympic Paris 2024 (RTM 6)
 https://d30aylox5wvifh.cloudfront.net/event/smil:event1/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="bwf-3" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPZsLKi2wOycIWE3Ji6B1kukomx3oBxJXtMA&usqp=CAU" group-title="Event Olympics Paris 2024", BFW  3
+https://pv10.soft4game.com/o51/stream272/o/stream272/chunks.m3u8?nimblesessionid=60798945&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDI0IDM6MDA6MDAgUE0maGFzaF92YWx1ZT1aSWlwb1lObEZEUFlGQ0RXU0ZQa2tnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD01
