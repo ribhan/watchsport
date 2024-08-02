@@ -3,7 +3,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a9ba0c413994882a487461c73361c73:ce2231d461355a4b7a28c2a17f01144b
-https://mwmpos03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
+https://uniproxy.misty.workers.dev/https://mwmpos03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
 
 #EXTINF:-1 tvg-id="olympic-2" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPZsLKi2wOycIWE3Ji6B1kukomx3oBxJXtMA&usqp=CAU" group-title="Event Olympics Paris 2024",Olympic Paris 2024 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -99,7 +99,7 @@ https://mwmpos01.akamaized.net/out/v1/d25d6ac6065747579cc0336ed2d540a8/manifest.
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=de1f8f8d772a4b69b5dfa0d110f3f274:c6359d29b7752725de20a7783a0dc9ea
-https://mwmpos04.akamaized.net/out/v1/dbd2ba3639db4d61b6543856e815b1cc/manifest.mpd
+https://uniproxy.misty.workers.dev/https://mwmpos04.akamaized.net/out/v1/dbd2ba3639db4d61b6543856e815b1cc/manifest.mpd
 
 #EXTINF:-1 tvg-id="olympic-18" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPZsLKi2wOycIWE3Ji6B1kukomx3oBxJXtMA&usqp=CAU" group-title="Event Olympics Paris 2024",Olympic Paris 2024 18
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
