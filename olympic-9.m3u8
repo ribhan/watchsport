@@ -1,0 +1,6 @@
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPZsLKi2wOycIWE3Ji6B1kukomx3oBxJXtMA&usqp=CAU",
+#EXTINF:-1 tvg-id="olympic-9" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPZsLKi2wOycIWE3Ji6B1kukomx3oBxJXtMA&usqp=CAU" group-title="Event Olympics Paris 2024",Olympic Paris 2024 9
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a9ba0c413994882a487461c73361c73:ce2231d461355a4b7a28c2a17f01144b
+https://uniproxy.misty.workers.dev/https://mwmpos03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
