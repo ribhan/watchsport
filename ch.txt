@@ -9,7 +9,7 @@ https://me02.starlive.workers.dev/out/v1/c7968554079946679615c275e0e5d155/manife
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00c74743daaa4519b2d3d6b6e7a9a89c:87f7e82f78206a846a85bb214e619ed1
-https://d2q3zea8ff7bj4.cloudfront.net/out/v1/a054e78fe6c7439faec28e9f71b16672/manifest.mp
+https://d2q3zea8ff7bj4.cloudfront.net/out/v1/a054e78fe6c7439faec28e9f71b16672/manifest.mpd
 
 #EXTINF:-1 tvg-id="olympic-7" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPZsLKi2wOycIWE3Ji6B1kukomx3oBxJXtMA&usqp=CAU" group-title="Event Olympics Paris 2024",Olympic Paris 2024 7
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
