@@ -1,19 +1,5 @@
 
 
-====================== RTM ========================
-
-#EXTINF:-1 tvg-id="rtm-1" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPZsLKi2wOycIWE3Ji6B1kukomx3oBxJXtMA&usqp=CAU" group-title="Event Olympics Paris 2024",Olympic Paris 2024 (RTM 1)
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag1/manifest.mpd
-#EXTINF:-1 tvg-id="rtm-2" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPZsLKi2wOycIWE3Ji6B1kukomx3oBxJXtMA&usqp=CAU" group-title="Event Olympics Paris 2024",Olympic Paris 2024 (RTM 2)
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag2/manifest.mpd
-#EXTINF:-1 tvg-id="rtm-3" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPZsLKi2wOycIWE3Ji6B1kukomx3oBxJXtMA&usqp=CAU" group-title="Event Olympics Paris 2024",Olympic Paris 2024 (RTM 3)
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag3/manifest.mpd
-#EXTINF:-1 tvg-id="rtm-4" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPZsLKi2wOycIWE3Ji6B1kukomx3oBxJXtMA&usqp=CAU" group-title="Event Olympics Paris 2024",Olympic Paris 2024 (RTM 4)
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag4/manifest.mpd
-#EXTINF:-1 tvg-id="rtm-5" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPZsLKi2wOycIWE3Ji6B1kukomx3oBxJXtMA&usqp=CAU" group-title="Event Olympics Paris 2024",Olympic Paris 2024 (RTM 5)
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag5/manifest.mpd
-#EXTINF:-1 tvg-id="rtm-6" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPZsLKi2wOycIWE3Ji6B1kukomx3oBxJXtMA&usqp=CAU" group-title="Event Olympics Paris 2024",Olympic Paris 2024 (RTM 6)
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd
 
 ======================== BWF ===============================
 
