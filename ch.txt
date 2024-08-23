@@ -300,19 +300,19 @@ https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
 
 
 -----------GO-----------
-#EXTINF:-1 tvg-id="go3-1" tvg-name=""  group-title="GO", Go3-Sport-1
+#EXTINF:-1 tvg-id="go-1" tvg-name=""  group-title="GO", Go3-Sport-1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd
 
-#EXTINF:-1 tvg-id="go3-2" tvg-name=""  group-title="GO", Go3-Sport-2
+#EXTINF:-1 tvg-id="go-2" tvg-name=""  group-title="GO", Go3-Sport-2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd
 
-#EXTINF:-1 tvg-id="go3-3" tvg-name=""  group-title="GO", Go3-Sport-3
+#EXTINF:-1 tvg-id="go-3" tvg-name=""  group-title="GO", Go3-Sport-3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
